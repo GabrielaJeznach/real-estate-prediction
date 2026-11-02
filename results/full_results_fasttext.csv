@@ -1,0 +1,4 @@
+,Model,Test_MAE,Test_MAPE_%,Test_R2,CV_MAE,Params
+2,LightGBM,437.1498089361518,5.5038936348119645,0.5323720724138515,533.1112678309895,"{'learning_rate': 0.1, 'max_depth': 10, 'n_estimators': 500}"
+0,Random Forest,450.9561346859678,5.629135859147525,0.4909738961084791,546.3733674970123,"{'max_depth': None, 'min_samples_split': 5, 'n_estimators': 500}"
+1,XGBoost,455.99850991512346,5.712912254213907,0.5040888252703413,535.9685246141976,"{'learning_rate': 0.05, 'max_depth': 5, 'n_estimators': 500}"
